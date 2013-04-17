@@ -1,0 +1,18 @@
+name: Home
+main: me.majsky.Home.HomePlugin
+version: 1.0.0
+author: majsky
+description: >
+             Standartny home + spawn plugin
+commands:
+commands:
+  sethome:
+    description: Nadstavi domov
+    usage: /sethome
+  home:
+    description: Teleport domov
+    usage: /home
+  spawn:
+    description: Teleport na spawn
+    usage: /spawn
+

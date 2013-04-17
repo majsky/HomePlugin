@@ -5,7 +5,6 @@ author: majsky
 description: >
              Standartny home + spawn plugin
 commands:
-commands:
   sethome:
     description: Nadstavi domov
     usage: /sethome
